@@ -1,5 +1,5 @@
-# Simple Bun Server Example
+# Simple Deno Server Example
 
 ```bash
-bun index.html
+deno serve server.ts
 ```
